@@ -1,0 +1,10 @@
+A:
+	doubel average(double * n1, souble & n2) : T_Z7averagePdRd
+	int average(int n1,float n2) : T_Z7averageif
+B:
+	output:1 8
+		   4 8
+		   4 8
+		   8 8
+	Pointer have a fixed size, depend on the system and compiler.
+	For this case, we could see that the size of pointer is  always 8 bytes.
